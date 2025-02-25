@@ -1,0 +1,168 @@
+2025-02-26 00:14:31,427 - opencv_filters - INFO - Тёмная тема применена
+2025-02-26 00:14:31,428 - opencv_filters - INFO - Приложение запущено
+2025-02-26 00:14:38,848 - opencv_filters - INFO - Загрузка изображения: C:/Users/User/Desktop/OPENCV/OPEN CV.jpg
+2025-02-26 00:14:38,932 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:38,932 - opencv_filters - INFO - Изображение успешно загружено: 4000x2752, 3 каналов
+2025-02-26 00:14:42,675 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:42,745 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:46,315 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:47,330 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:47,389 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:53,154 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:53,211 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:53,358 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:53,418 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:53,535 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:53,593 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:53,708 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:53,769 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:53,877 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:53,941 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:54,037 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:54,104 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:54,191 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:54,255 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:54,362 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:54,425 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:54,523 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:54,588 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:54,677 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:54,745 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:54,840 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:54,905 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:55,000 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:55,055 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:55,162 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:55,216 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:55,332 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:55,384 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:14:56,525 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:14:56,579 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:00,350 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:00,404 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:03,870 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:04,364 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:04,419 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:09,917 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:09,970 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:10,260 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:10,315 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:10,413 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:10,467 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:10,574 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:10,629 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:10,723 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:10,781 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:10,866 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:10,921 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:11,019 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:11,073 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:11,174 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:11,229 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:11,339 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:11,394 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:11,512 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:11,568 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:11,681 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:11,737 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:11,833 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:11,886 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:11,996 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:12,051 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:12,160 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:12,215 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:12,665 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:12,717 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:13,432 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:13,972 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:14,027 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:15,005 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:15,462 - opencv_filters - INFO - Применение фильтра: Сепия
+2025-02-26 00:15:15,518 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:17,476 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:25,000 - opencv_filters - INFO - Применение фильтра: Лицо Haar
+2025-02-26 00:15:25,021 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:28,290 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:34,653 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:35,258 - opencv_filters - INFO - Применение фильтра: Пикселизация
+2025-02-26 00:15:35,283 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:37,877 - opencv_filters - INFO - Применение фильтра: Пикселизация
+2025-02-26 00:15:37,902 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:40,177 - opencv_filters - INFO - Применение фильтра: Пикселизация
+2025-02-26 00:15:40,203 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:40,792 - opencv_filters - INFO - Применение фильтра: Пикселизация
+2025-02-26 00:15:40,817 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:41,206 - opencv_filters - INFO - Применение фильтра: Пикселизация
+2025-02-26 00:15:41,230 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:44,894 - opencv_filters - INFO - Применение фильтра: Пикселизация
+2025-02-26 00:15:44,919 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:45,048 - opencv_filters - INFO - Применение фильтра: Пикселизация
+2025-02-26 00:15:45,073 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:46,556 - opencv_filters - INFO - Применение фильтра: Пикселизация
+2025-02-26 00:15:46,581 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:48,531 - opencv_filters - INFO - Применение фильтра: Пикселизация
+2025-02-26 00:15:48,555 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:50,527 - opencv_filters - INFO - Применение фильтра: Пикселизация
+2025-02-26 00:15:50,553 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:50,909 - opencv_filters - INFO - Применение фильтра: Пикселизация
+2025-02-26 00:15:50,935 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:15:59,490 - opencv_filters - INFO - Сохранение изображения: C:/Users/User/Desktop/OPENCV/pixel.png
+2025-02-26 00:15:59,559 - opencv_filters - INFO - Изображение успешно сохранено: C:/Users/User/Desktop/OPENCV/pixel.png
+2025-02-26 00:17:09,202 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:17:09,969 - opencv_filters - CRITICAL - Необработанное исключение:
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\OPENCV\ui.py", line 380, in add_selected_filter
+    self.add_filter(category, filter_name)
+  File "C:\Users\User\Desktop\OPENCV\ui.py", line 396, in add_filter
+    self.add_edge_filter(filter_name)
+  File "C:\Users\User\Desktop\OPENCV\ui.py", line 481, in add_edge_filter
+    self.add_filter_widget(new_filter, {"ksize": [1, 3, 5, 7]})
+  File "C:\Users\User\Desktop\OPENCV\ui.py", line 853, in add_filter_widget
+    combo.addItems(config)
+TypeError: index 0 has type 'int' but 'str' is expected
+2025-02-26 00:17:09,970 - opencv_filters - DEBUG - Стек вызовов:
+2025-02-26 00:17:09,971 - opencv_filters - DEBUG - File "C:\Users\User\Desktop\OPENCV\ui.py", line 380, in add_selected_filter
+    self.add_filter(category, filter_name)
+2025-02-26 00:17:09,971 - opencv_filters - DEBUG - File "C:\Users\User\Desktop\OPENCV\ui.py", line 396, in add_filter
+    self.add_edge_filter(filter_name)
+2025-02-26 00:17:09,971 - opencv_filters - DEBUG - File "C:\Users\User\Desktop\OPENCV\ui.py", line 481, in add_edge_filter
+    self.add_filter_widget(new_filter, {"ksize": [1, 3, 5, 7]})
+2025-02-26 00:17:09,971 - opencv_filters - DEBUG - File "C:\Users\User\Desktop\OPENCV\ui.py", line 853, in add_filter_widget
+    combo.addItems(config)
+2025-02-26 00:18:52,760 - opencv_filters - INFO - Применение фильтра: Детализация
+2025-02-26 00:18:54,647 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:18:54,674 - opencv_filters - INFO - Применение фильтра: Детализация
+2025-02-26 00:18:56,262 - opencv_filters - INFO - Применение фильтра: Детализация
+2025-02-26 00:18:57,912 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:19:00,979 - opencv_filters - INFO - Применение фильтра: Детализация
+2025-02-26 00:19:02,566 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:19:18,437 - opencv_filters - INFO - Применение фильтра: Детализация
+2025-02-26 00:19:20,010 - opencv_filters - INFO - Применение фильтра: Масляная живопись
+2025-02-26 00:19:20,030 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:19:26,160 - opencv_filters - INFO - Применение фильтра: Детализация
+2025-02-26 00:19:27,754 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:19:28,679 - opencv_filters - INFO - Применение фильтра: Детализация
+2025-02-26 00:19:30,242 - opencv_filters - INFO - Применение фильтра: Масляная живопись
+2025-02-26 00:19:30,262 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:19:33,258 - opencv_filters - INFO - Применение фильтра: Детализация
+2025-02-26 00:19:34,845 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:19:35,778 - opencv_filters - INFO - Применение фильтра: Детализация
+2025-02-26 00:19:37,303 - opencv_filters - INFO - Применение фильтра: Масляная живопись
+2025-02-26 00:19:37,324 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:19:42,838 - opencv_filters - INFO - Сохранение изображения: C:/Users/User/Desktop/OPENCV/1.png
+2025-02-26 00:19:42,982 - opencv_filters - INFO - Изображение успешно сохранено: C:/Users/User/Desktop/OPENCV/1.png
+2025-02-26 00:22:30,136 - opencv_filters - INFO - Применение фильтра: Масляная живопись
+2025-02-26 00:22:30,163 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:22:30,873 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:22:31,865 - opencv_filters - INFO - Применение фильтра: Размытие среднего
+2025-02-26 00:22:31,933 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:22:34,258 - opencv_filters - INFO - Применение фильтра: Размытие среднего
+2025-02-26 00:22:34,321 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:22:35,209 - opencv_filters - INFO - Применение фильтра: Размытие среднего
+2025-02-26 00:22:35,271 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:22:36,750 - opencv_filters - INFO - Применение фильтра: Размытие среднего
+2025-02-26 00:22:36,812 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:22:36,909 - opencv_filters - INFO - Применение фильтра: Размытие среднего
+2025-02-26 00:22:36,973 - opencv_filters - DEBUG - Превью обновлено успешно
+2025-02-26 00:22:39,731 - opencv_filters - INFO - Применение фильтра: Размытие среднего
+2025-02-26 00:22:39,781 - opencv_filters - DEBUG - Превью обновлено успешно
