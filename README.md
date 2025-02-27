@@ -49,21 +49,14 @@ opencv_filters/
 - NumPy
 
 ## Установка
-
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/yourusername/opencv-filters.git
-   cd opencv-filters
-   ```
-
-2. Создайте виртуальное окружение (рекомендуется):
+1. Создайте виртуальное окружение (рекомендуется):
    ```bash
    python -m venv venv
    source venv/bin/activate  # Linux/macOS
    venv\Scripts\activate     # Windows
    ```
 
-3. Установите зависимости:
+2. Установите зависимости:
    ```bash
    pip install -r requirements.txt
    ```
