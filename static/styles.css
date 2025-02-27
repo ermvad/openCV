@@ -1,0 +1,208 @@
+/* Основные цвета и стили */
+:root {
+    --bg-dark: #2e2e2e;
+    --bg-darker: #222222;
+    --text-light: #f0f0f0;
+    --accent: #3CB371;
+    --danger: #DC3545;
+    --primary: #0d6efd;
+    --secondary: #6c757d;
+}
+
+/* Общие стили */
+body {
+    background-color: var(--bg-dark);
+    color: var(--text-light);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+    background-color: var(--bg-darker);
+    border-bottom: 1px solid #444;
+}
+
+.card {
+    background-color: var(--bg-darker);
+    border: 1px solid #444;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid #444;
+}
+
+/* Формы и элементы управления */
+.form-control, .form-select {
+    background-color: var(--bg-dark);
+    border: 1px solid #444;
+    color: var(--text-light);
+}
+
+.form-control:focus, .form-select:focus {
+    background-color: var(--bg-dark);
+    color: var(--text-light);
+    border-color: var(--accent);
+    box-shadow: 0 0 0 0.25rem rgba(60, 179, 113, 0.25);
+}
+
+.btn-success {
+    background-color: var(--accent);
+    border-color: var(--accent);
+}
+
+.btn-success:hover {
+    background-color: #2a9d5d;
+    border-color: #2a9d5d;
+}
+
+.btn-outline-success {
+    color: var(--accent);
+    border-color: var(--accent);
+}
+
+.btn-outline-success:hover {
+    background-color: var(--accent);
+    color: white;
+}
+
+/* Область загрузки файла */
+#dropArea {
+    border: 2px dashed #aaa;
+    border-radius: 8px;
+    padding: 3rem;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+#dropArea.highlight {
+    border-color: var(--accent);
+    background-color: rgba(60, 179, 113, 0.1);
+}
+
+/* Изображения */
+#preview, #result {
+    max-width: 100%;
+    max-height: 600px;
+    display: block;
+    margin: 0 auto;
+}
+
+.image-container {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    max-height: 600px;
+}
+
+.image-info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 0.5rem;
+    font-size: 0.875rem;
+}
+
+/* Фильтры и их управление */
+.filter-action {
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.filter-action:hover {
+    color: var(--accent);
+}
+
+.loader {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 3px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    border-top-color: var(--accent);
+    animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* Управление списком фильтров */
+#appliedFilters .badge {
+    margin-right: 5px;
+    margin-bottom: 5px;
+    font-size: 0.875rem;
+}
+
+.filter-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.filter-list .badge {
+    transition: all 0.2s ease;
+}
+
+.filter-list .badge:hover {
+    background-color: #0b5ed7 !important;
+}
+
+.filter-list .badge.bg-secondary {
+    opacity: 0.7;
+}
+
+.filter-name {
+    margin: 0 3px;
+    text-decoration: none;
+}
+
+.filter-name:hover {
+    text-decoration: underline;
+}
+
+/* Анимации и эффекты */
+.fade-in {
+    animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* Стили для перетаскивания */
+.sortable-filters {
+    min-height: 30px;
+}
+
+.sortable-ghost {
+    opacity: 0.5;
+}
+
+.sortable-chosen {
+    background-color: var(--primary) !important;
+}
+
+/* Адаптивные стили */
+@media (max-width: 992px) {
+    .image-container {
+        max-height: 400px;
+    }
+}
+
+/* Подсказки и объяснения */
+.helper-text {
+    font-size: 0.85rem;
+    color: #aaa;
+    margin-top: 5px;
+}
+
+.highlight-on-hover:hover {
+    border-color: var(--accent);
+}
